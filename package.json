@@ -1,6 +1,6 @@
 {
   "name": "pomegranate-express-application",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Provides Express to pomegranate express or standalone express implementations in the Pomegranate framework.",
   "main": "index.js",
   "scripts": {
