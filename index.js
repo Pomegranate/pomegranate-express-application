@@ -28,8 +28,7 @@ module.exports = {
     strictRouting: false
   },
   metadata: {
-    name: 'CoreApplication',
-    layer: 'core',
+    name: 'ExpressCore',
     type: 'dynamic'
   },
   plugin: {
